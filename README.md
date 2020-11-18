@@ -2,17 +2,16 @@
 
 This is my GitHub test project.
 
+## Steps for using Git:
 
-This is a list of what's great about my project:
-
-I am *italicizing* text.
-
-* It's great
-* And I made it
-* bullet point
+0. make a new folder and start git
 
 ```
-//This is some code
-```
+mkdir foldername
+git init
+````
 
-I'm making changes.
+1. Save your file
+2. ```git add filename```
+3. ```git commit -m "describe your changes"```
+4. Repeat this forever!
