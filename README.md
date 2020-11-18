@@ -19,6 +19,8 @@ git init
 ![Purchase College](https://www.purchase.edu/live/image/scale/2x/gid/198/width/1000/height/667/11747_New_Bioswell.rev.1567622230.jpg)
 
 
+Additional text!
+
 Here's how to embed an image:
 
 ```
