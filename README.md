@@ -24,3 +24,5 @@ Here's how to embed an image:
 ```
 ![Alt text](url-of-image-file.jpg)
 ```
+
+And that's basically most things?!
